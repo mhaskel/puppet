@@ -27,7 +27,7 @@ build_msi:
   sys:
     ref:
       x86: 'tickets/1.9.3-x86/re-6194-update-win-openssl'
-      x64: 'tickets/1.9.3-x86/re-6194-update-win-openssl'
+      x64: 'tickets/2.0.0-x64/re-6194-update-win-openssl'
     repo: 'git://github.com/underscorgan/puppet-win32-ruby.git'
 apt_host: 'apt.puppetlabs.com'
 apt_repo_url: 'http://apt.puppetlabs.com'
